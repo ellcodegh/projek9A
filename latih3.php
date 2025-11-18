@@ -18,12 +18,15 @@
     <b>Ini adalah kapal Federasi Planet USS Enterprise.<br>
     <?php
             print("Saya $namad,$namat,$namab,kapten kapal.</b>");
+            echo "<br>";
             print "$namad,$namat,$namab";
         echo "<br>";
-        echo "saya", $namad,$namat,$namab;
+        echo "saya : ", $namad,$namat,$namab;
         ?>
 
         <h1>A12.2024.07153 / Muhammad Rafael Rasya N</h1>
 
     </body>
 </html>
+
+ Program ini error karena kurangnya tanda (") pada baris no 22
