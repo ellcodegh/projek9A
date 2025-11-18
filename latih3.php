@@ -29,4 +29,5 @@
     </body>
 </html>
 
- Program ini error karena kurangnya tanda (") pada baris no 22
+ Program ini error karena kurangnya tanda (") pada baris no 22, sehingga
+ menyebabkan syntax error, dan program tidak jalan semestinya.
